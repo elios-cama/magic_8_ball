@@ -22,3 +22,7 @@ flutter:
 
   assets:
     - images/
+  fonts:
+  - family: Wizard
+    fonts:
+    - asset: fonts/Kingthings_Willow.ttf
